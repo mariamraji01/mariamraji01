@@ -35,18 +35,11 @@ Delivered executive-ready dashboards with strong data storytelling, clear KPIs, 
 
 #  📊 Data Analytics Projects
 
-## 🛢️ Upstream Production Performance Analysis (PowerBI)
+### 🛢️ Upstream Production Performance Analysis (PowerBI)
 
 **Case Study:** This project transforms raw upstream production data from Nigerian deepwater assets into an interactive Power BI dashboard that delivers clear insights into production performance, operational efficiency, and well risk and reliability.
 
 **[View Project](https://github.com/your-actual-username/your-repo-name)**
-
-
-**Case Study:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
 
 # Technical Skillset
 
