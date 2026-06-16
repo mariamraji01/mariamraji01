@@ -38,9 +38,8 @@ Delivered executive-ready dashboards with strong data storytelling, clear KPIs, 
 ## Upstream Production Performance Analysis (PowerBI)
 **Oil & Gas** | Production Monitoring | Operational Efficiency | Risk & Reliability
 
-This project aimed to transform raw upstream production data from Nigerian deepwater assets into an interactive Power BI dashboard, providing clear insights into production performance, operational efficiency, and well risk and reliability.
-
-**[View Project
+**Case Study:**This project transforms raw upstream production data from Nigerian deepwater assets into an interactive Power BI dashboard that delivers clear insights into production performance, operational efficiency, and well risk and reliability.
+**[View Project](https://github.com/your-actual-username/your-repo-name)**
 
 
 **Case Study:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
