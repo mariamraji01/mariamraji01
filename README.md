@@ -1,4 +1,4 @@
-# Hi there, I'm Mariam 👋
+## Hi there, I'm Mariam 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-#  About Me 
+##  About Me 
 I'm a Data Analyst passionate about turning raw, complex data into clear, actionable insights that drive business decisions. I build data-driven solutions across different domains, with experience in Oil & Gas analytics. 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
@@ -25,7 +25,7 @@ When I’m not working with data, I enjoy mentoring others and sharing my knowle
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [ Check Out My Full Portfolio Website](https://your-username.github.io/)
       
-#  Impact Highlights
+##  Impact Highlights
 -Built a comprehensive Upstream Production Performance Dashboard in Power BI for Nigerian deepwater oil & gas assets, enabling visibility into production trends, operational efficiency, and well risk & reliability.
 
 -Transformed complex operational datasets into actionable insights, including YoY production growth (+33.6%), downtime patterns, and risk flag indicators.
@@ -33,7 +33,7 @@ When I’m not working with data, I enjoy mentoring others and sharing my knowle
 -Designed and implemented a star schema data model with advanced DAX measures to support efficient, interactive reporting.
 Delivered executive-ready dashboards with strong data storytelling, clear KPIs, and effective conditional formatting.
 
-#  📊 Data Analytics Projects
+##  📊 Data Analytics Projects
 
 ### 🛢️ Upstream Production Performance Analysis (PowerBI)
 
@@ -41,7 +41,7 @@ Delivered executive-ready dashboards with strong data storytelling, clear KPIs, 
 
 **[View Project](https://github.com/your-actual-username/your-repo-name)**
 
-# Technical Skillset
+## Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
@@ -66,7 +66,7 @@ Delivered executive-ready dashboards with strong data storytelling, clear KPIs, 
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
 
-# Let’s Work Together
+## Let’s Work Together
 I’m open to remote Data Analyst, BI, or freelance projects, and collaborations. If you’re looking for someone who can turn numbers into strategy and support your business with precision, let’s connect.
 
 📩 Looking forward to contributing to your next data-driven move!
