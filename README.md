@@ -62,5 +62,6 @@ When I’m not working with data, I enjoy mentoring others and sharing my knowle
 
 ## Let’s Work Together
 I’m open to remote Data Analyst, BI, or freelance projects, and collaborations. If you’re looking for someone who can turn numbers into strategy and support your business with precision, let’s connect.
+
 📩 Looking forward to contributing to your next data-driven move!
 mariamraji50@gmail.com
