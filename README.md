@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-##  About Me 
+#  About Me 
 I'm a Data Analyst passionate about turning raw, complex data into clear, actionable insights that drive business decisions. I build data-driven solutions across different domains, with experience in Oil & Gas analytics. 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
