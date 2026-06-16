@@ -17,10 +17,10 @@
 </p>
 
 ##  About Me 
-I'm a Data Analyst passionate about turning raw,complex data into clear, actionable insights that drive business decisions. I build data-driven solutions across different domains, with experience in Oil & Gas analytics. 
+I'm a Data Analyst passionate about turning raw, complex data into clear, actionable insights that drive business decisions. I build data-driven solutions across different domains, with experience in Oil & Gas analytics. 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+When I’m not working with data, I enjoy mentoring others and sharing my knowledge. I’m also committed to continuous learning and pushing myself to grow beyond my current skills.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
