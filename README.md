@@ -36,6 +36,12 @@ Delivered executive-ready dashboards with strong data storytelling, clear KPIs, 
 #  📊 Data Analytics Projects
 
 ## Upstream Production Performance Analysis (PowerBI)
+**Oil & Gas** | Production Monitoring | Operational Efficiency | Risk & Reliability
+
+This project aimed to transform raw upstream production data from Nigerian deepwater assets into an interactive Power BI dashboard, providing clear insights into production performance, operational efficiency, and well risk and reliability.
+
+**[View Project
+
 
 **Case Study:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
@@ -43,7 +49,7 @@ Delivered executive-ready dashboards with strong data storytelling, clear KPIs, 
 - [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
 - [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
 
-## Technical Skillset
+# Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
@@ -68,7 +74,7 @@ Delivered executive-ready dashboards with strong data storytelling, clear KPIs, 
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
 
-## Let’s Work Together
+# Let’s Work Together
 I’m open to remote Data Analyst, BI, or freelance projects, and collaborations. If you’re looking for someone who can turn numbers into strategy and support your business with precision, let’s connect.
 
 📩 Looking forward to contributing to your next data-driven move!
