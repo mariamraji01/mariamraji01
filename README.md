@@ -25,18 +25,21 @@ When I’m not working with data, I enjoy mentoring others and sharing my knowle
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [ Check Out My Full Portfolio Website](https://your-username.github.io/)
       
-## 🔭 What I'm Currently Working On 
+##  Impact Highlights
+▪Built a comprehensive Upstream Production Performance Dashboard in Power BI for Nigerian deepwater oil & gas assets, enabling visibility into production trends, operational efficiency, and well risk & reliability.
+▪Transformed complex operational datasets into actionable insights, including YoY production growth (+33.6%), downtime patterns, and risk flag indicators.
+▪Designed and implemented a star schema data model with advanced DAX measures to support efficient, interactive reporting.
+Delivered executive-ready dashboards with strong data storytelling, clear KPIs, and effective conditional formatting.
+
+##  Currently Learning 
 
 - **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
-
-## 🌱 Currently Learning 
-
 - [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
 - [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
 
-## 🛠️ Technical Skillset
+## Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
