@@ -25,14 +25,6 @@ When I’m not working with data, I enjoy mentoring others and sharing my knowle
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 #### [ Check Out My Full Portfolio Website](https://your-username.github.io/)
       
-##  Impact Highlights
--Built a comprehensive Upstream Production Performance Dashboard in Power BI for Nigerian deepwater oil & gas assets, enabling visibility into production trends, operational efficiency, and well risk & reliability.
-
--Transformed complex operational datasets into actionable insights, including YoY production growth (+33.6%), downtime patterns, and risk flag indicators.
-
--Designed and implemented a star schema data model with advanced DAX measures to support efficient, interactive reporting.
-Delivered executive-ready dashboards with strong data storytelling, clear KPIs, and effective conditional formatting.
-
 ##  📊 Data Analytics Projects
 
 ### 🛢️ Upstream Production Performance Analysis (PowerBI)
