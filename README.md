@@ -39,7 +39,7 @@ Delivered executive-ready dashboards with strong data storytelling, clear KPIs, 
 
 **Case Study:** This project transforms raw upstream production data from Nigerian deepwater assets into an interactive Power BI dashboard that delivers clear insights into production performance, operational efficiency, and well risk and reliability.
 
-**[View Project](https://github.com/Upstream-Production-Performance-Analysis
+**[View Project](https://github.com/mariamraji01/Upstream-Production-Performance-Analysis)
 )**
 
 ## Technical Skillset
