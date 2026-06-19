@@ -23,8 +23,7 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 When I’m not working with data, I enjoy mentoring others and sharing my knowledge. I’m also committed to continuous learning and pushing myself to grow beyond my current skills.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-#### [ Check Out My Full Portfolio Website](https://your-username.github.io/)
-      
+#### [ Check Out My Full Portfolio Website](https://mariamraji01.github.io/)
 ##  📊 Data Analytics Projects
 
 ### 🛢️ Upstream Production Performance Analysis (PowerBI)
