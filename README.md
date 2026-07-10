@@ -33,6 +33,12 @@ When I’m not working with data, I enjoy mentoring others and sharing my knowle
 **[View Project](https://github.com/mariamraji01/Upstream-Production-Performance-Analysis
 )**
 
+### ⛽ End-to-End Oil & Gas Financial Performance & Operational Efficiency Analysis
+
+**Case Study**
+An end-to-end Power BI Business Intelligence project that transforms operational and financial data into actionable insights for decision-making in the Oil & Gas industry.
+**[View Project](https://github.com/mariamraji01/Oil-Gas-Performance-Analysis)**
+
 ## Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
